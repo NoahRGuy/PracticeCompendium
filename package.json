@@ -1,0 +1,19 @@
+{
+  "name": "practice-compendium",
+  "version": "1.0.0",
+  "description": "Practice SMT Compendium",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NoahRGuy/PracticeCompendium.git"
+  },
+  "author": "Noah Guy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NoahRGuy/PracticeCompendium/issues"
+  },
+  "homepage": "https://github.com/NoahRGuy/PracticeCompendium#readme"
+}
